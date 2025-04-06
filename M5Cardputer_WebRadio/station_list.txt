@@ -9,3 +9,10 @@ Metal Detector,https://ice4.somafm.com/metal-128-mp3
 Morcegao FM,https://radio.morcegaofm.com.br/morcegao128
 Morcegao FM Auto,https://radio.morcegaofm.com.br/auto
 Los Santos Rock,/mp3/Los Santos Rock Radio.mp3
+  { "Classic 21 live", "https://www.rtbf.be/radio/liveradio/classic21" },
+  { "Classic 21 60s", "https://www.rtbf.be/article/classic-21-60-s-10916302" },
+  { "Classic 21 70s", "https://www.rtbf.be/article/classic-21-70-s-10916309" },
+  { "Classic 21 80s", "https://www.rtbf.be/article/classic-21-80-s-10916311" },
+  { "Classic 21 80 NW", "https://www.rtbf.be/article/classic-21-80-s-new-wave-11238663" },
+  { "Classic 21 90s", "https://www.rtbf.be/article/classic-21-80-s-new-wave-11238663" },
+  { "Classic 21 Blues", "https://www.rtbf.be/article/classic-21-80-s-new-wave-11238663" },
